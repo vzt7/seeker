@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "vzt7-blog",
-    siteUrl: process.env.SITE_URL,
+    siteUrl: "https://www.luxanna.cn",
   },
   plugins: [
     "gatsby-plugin-netlify-cms",
